@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif; 
+  line-height: 1.6; 
+  color: #202124; /* Dark text for readability */
+  margin: 0; 
+  padding: 0; 
+  background-color: #ffffff; /* White background */
+}
+
+.app {
+  max-width: 800px; 
+  margin: auto; 
+  padding: 20px; 
+}
+
+.container {
+  padding-top: 20px; 
+}

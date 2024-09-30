@@ -1,0 +1,29 @@
+.file-list {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .file-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0; /* Light gray line */
+  }
+  
+  .file-name {
+    color: #4285f4; /* Google Blue */
+    cursor: pointer;
+  }
+  
+  .file-name:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
+  .file-date {
+    color: #5f6368; /* Gray for date */
+  }
+  
+  .file-content {
+    margin-top: 20px;
+  }
